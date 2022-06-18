@@ -2,8 +2,8 @@
 
 <p align="center">
 <a href="https://github.com/AliDeV7">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AliDeV7&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AliDeV7&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AliDeV7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AliDeV7&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
 
