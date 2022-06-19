@@ -122,20 +122,9 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 </p>
 
 ----
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AliDeV7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AliDeV7&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-----
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/alidev7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
   </a>
@@ -158,6 +147,19 @@ https://dev.to/envoy_/150-badges-for-github-pnk
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
   </a>
 </p>
+
+----
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AliDeV7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AliDeV7&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
   
 ----
   
@@ -166,3 +168,21 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
+<p align="center">
+
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="example"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="example"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" alt="example"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Origin-FF8000?style=for-the-badge&logo=origin&logoColor=white" alt="example"/>
+  </a>
+  </p>
+
+----
+<p align="center"><img src="https://profile-counter.glitch.me/{AliDeV7}/count.svg" alt="Aleksey-Voko :: Visitor's Count" /></p>
