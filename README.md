@@ -151,7 +151,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   <a href="https://api.whatsapp.com/send?phone=989370692219" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="example"/>
   </a>
-  <a href="discordapp.com/users/551885099000659978" target="_blank">
+  <a href="https://discordapp.com/users/551885099000659978" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="example"/>
   </a>
   <a href="https://www.instagram.com/ali.ahmadi.d7/" target="_blank">
