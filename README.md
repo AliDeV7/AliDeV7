@@ -13,7 +13,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 ### 🛠 &nbsp;My Skills
 
-<h3 align="left">Languages</h3>
+<h4 align="left">Languages</h4>
 <p align="left">
   <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
@@ -37,7 +37,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   </a>
 </p>
   
-<h3 align="left">Backend</h3>
+<h4 align="left">Backend</h4>
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/core/introduction" target="_blank"> 
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"
@@ -48,7 +48,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
       alt="netcore"/> 
   </a>
 </p>
-<h3 align="left">Frontend</h3>
+<h4 align="left">Frontend</h4>
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/xamarin/" target="_blank">
     <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"
@@ -65,7 +65,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 
 
-<h3 align="left">Database</h3>
+<h4 align="left">Database</h4>
 <p align="left">
   <a href="" target="_blank"> 
     <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"
@@ -81,7 +81,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   </a> 
 </p>
 
-<h3 align="left">Test</h3>
+<h4 align="left">Test</h4>
 <p align="left"> 
   <a href="https://www.selenium.dev" target="_blank"> 
     <img src="https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"
@@ -89,7 +89,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   </a> 
 </p>
 
-<h3 align="left">Version Control & CI/CD</h3>
+<h4 align="left">Version Control & CI/CD</h4>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
@@ -108,7 +108,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   </a>
 </p>
 
-<h3 align="left">Preferred IDEs  & Tools :</h3>
+<h4 align="left">Preferred IDEs  & Tools</h4>
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="vsCode"/> 
