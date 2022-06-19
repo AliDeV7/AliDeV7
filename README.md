@@ -178,19 +178,16 @@ I have good problem-solving skills and Able to perform well in a team. ☺️
 </p>
 <p align="center">
 
-  <a href="#" target="_blank">
+  <a href="https://steamcommunity.com/profiles/76561198928284121/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="example"/>
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="example"/>
+  <a href="https://psnprofiles.com/AliDEvil7" target="_blank">
+    <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="AliDEvil7"/>
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" alt="example"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Origin-FF8000?style=for-the-badge&logo=origin&logoColor=white" alt="example"/>
-  </a>
-  </p>
+    <img src="https://img.shields.io/badge/Battle.net : AliDEvil77 -000?style=for-the-badge&logo=battle.net&logoColor=148EFF" alt="AliDEvil77#2262"/>
+    <img src="https://img.shields.io/badge/Origin : AliDEvil777 -FF8000?style=for-the-badge&logo=origin&logoColor=white" alt="AliDEvil777"/>
+  
+ </p>
 
 ----
 <p align="center"><img src="https://profile-counter.glitch.me/{AliDeV7}/count.svg" alt="Aleksey-Voko :: Visitor's Count" /></p>
