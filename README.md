@@ -79,7 +79,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   </a> 
 </p>
 
-<h3 align="left">Testing</h3>
+<h3 align="left">Test</h3>
 <p align="left"> 
   <a href="https://www.selenium.dev" target="_blank"> 
     <img src="https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"
