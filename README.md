@@ -8,10 +8,11 @@
 <!--
 https://dev.to/envoy_/150-badges-for-github-pnk
 -->
+### Hey there👋, I'm Ali!
 
 ----
 
-### 🛠 &nbsp;My Skills
+# 🛠 &nbsp;My Skills
 
 <h4 align="left">Languages</h4>
 <p align="left">
